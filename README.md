@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brian-Onsoti
 - 👀 I’m interested in cloud security
 - 🌱 I’m currently learning cloud computing and information security
-- 📫 How to reach me through an email onsotib2@gmail.com
+- 📫 Contact me through email onsotib2@gmail.com
 
 
 <!---
